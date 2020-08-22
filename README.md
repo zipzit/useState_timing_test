@@ -2,7 +2,7 @@
 Created with CodeSandbox
 
 I created this repo, in preparation for asking the question.. 
-why does setState not update immediately?  
+**Why does setState not update immediately?**  
 
 After starting my StackOverflow question... I found this stuff:
 
