@@ -26,5 +26,7 @@ https://reactjs.org/docs/react-component.html#setstate
     fire after the update has been applied.
 
 https://github.com/facebook/react/issues/11527#issuecomment-360199710
+
+And that info completes my study... no need to even post to StackOverflow... 
     
     
